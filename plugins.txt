@@ -1,6 +1,0 @@
-contact-form-7
-woocommerce
-elementor
-wpforms-lite
-yoast-seo
-
